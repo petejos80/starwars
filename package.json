@@ -4,7 +4,8 @@
   "description": "",
   "main": "starwars.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node starwars6.js"
   },
   "author": "",
   "license": "ISC",
